@@ -22,7 +22,7 @@
 <link rel="stylesheet" href="assets/css/remixicon.css">
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="assets/css/responsive.css">
-<title>About MBBSatGeorgia - Your Gateway to Study MBBS in Georgia</title>
+<title>About MBBSatGeorgia - Your Gateway to Study MBBS in Georgia </title>
 <link rel="icon" type="image/png" href="assets/img/favicon.webp">
 
 <style>
